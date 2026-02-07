@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.first {
+    background-color: rgb(255,127,127);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id1 {
+    color: rgb(000,000,255);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: #88E788;
+    font-size: 24px;
+    font-weight: bold;
+}
